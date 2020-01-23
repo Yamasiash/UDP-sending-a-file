@@ -1,0 +1,12 @@
+c:\users\student (холоп)\documents\visual studio 2017\Projects\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
+c:\users\student (холоп)\documents\visual studio 2017\Projects\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe
+c:\users\student (холоп)\documents\visual studio 2017\Projects\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
+c:\users\student (холоп)\documents\visual studio 2017\Projects\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csprojResolveAssemblyReference.cache
+c:\users\student (холоп)\documents\visual studio 2017\Projects\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.exe
+c:\users\student (холоп)\documents\visual studio 2017\Projects\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.pdb
+C:\Users\Гурман\Desktop\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe.config
+C:\Users\Гурман\Desktop\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.exe
+C:\Users\Гурман\Desktop\ConsoleApp25\ConsoleApp25\bin\Debug\ConsoleApp25.pdb
+C:\Users\Гурман\Desktop\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.csprojAssemblyReference.cache
+C:\Users\Гурман\Desktop\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.exe
+C:\Users\Гурман\Desktop\ConsoleApp25\ConsoleApp25\obj\Debug\ConsoleApp25.pdb
