@@ -1,0 +1,20 @@
+\\Mac\Home\Desktop\2Tcp\2Tcp\bin\Debug\2Tcp.exe.config
+\\Mac\Home\Desktop\2Tcp\2Tcp\bin\Debug\2Tcp.exe
+\\Mac\Home\Desktop\2Tcp\2Tcp\bin\Debug\2Tcp.pdb
+\\Mac\Home\Desktop\2Tcp\2Tcp\obj\Debug\2Tcp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\2Tcp\2Tcp\obj\Debug\2Tcp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\2Tcp\2Tcp\obj\Debug\2Tcp.exe
+\\Mac\Home\Desktop\2Tcp\2Tcp\obj\Debug\2Tcp.pdb
+C:\Users\Student\Desktop\2Tcp\2Tcp\bin\Debug\2Tcp.exe.config
+C:\Users\Student\Desktop\2Tcp\2Tcp\bin\Debug\2Tcp.exe
+C:\Users\Student\Desktop\2Tcp\2Tcp\bin\Debug\2Tcp.pdb
+C:\Users\Student\Desktop\2Tcp\2Tcp\obj\Debug\2Tcp.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\2Tcp\2Tcp\obj\Debug\2Tcp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\2Tcp\2Tcp\obj\Debug\2Tcp.exe
+C:\Users\Student\Desktop\2Tcp\2Tcp\obj\Debug\2Tcp.pdb
+D:\Student Folder\2Tcp\2Tcp\bin\Debug\2Tcp.exe.config
+D:\Student Folder\2Tcp\2Tcp\bin\Debug\2Tcp.exe
+D:\Student Folder\2Tcp\2Tcp\bin\Debug\2Tcp.pdb
+D:\Student Folder\2Tcp\2Tcp\obj\Debug\2Tcp.csprojResolveAssemblyReference.cache
+D:\Student Folder\2Tcp\2Tcp\obj\Debug\2Tcp.exe
+D:\Student Folder\2Tcp\2Tcp\obj\Debug\2Tcp.pdb
